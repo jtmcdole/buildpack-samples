@@ -3,6 +3,7 @@ Buildpack Samples
 
 | Name | Language | Build Tool | Deploy |
 | ---- | -------- | ---------- | ------ |
+| [sample-dart](sample-dart) | Dart | Dart SDK | [![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run?git_repo=https://github.com/GoogleCloudPlatform/buildpack-samples.git&dir=sample-dart) |
 | [sample-dotnet](sample-dotnet) | C# | .NET SDK | [![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run?git_repo=https://github.com/GoogleCloudPlatform/buildpack-samples.git&dir=sample-dotnet) |
 | [sample-go](sample-go) | Go | Go Modules | [![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run?git_repo=https://github.com/GoogleCloudPlatform/buildpack-samples.git&dir=sample-go) |
 | [sample-java-gradle](sample-java-gradle) | Java | Gradle | [![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run?git_repo=https://github.com/GoogleCloudPlatform/buildpack-samples.git&dir=sample-java-gradle) |
